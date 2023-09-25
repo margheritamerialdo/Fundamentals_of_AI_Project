@@ -1,4 +1,5 @@
-# This repository contains the project for the "Fundamentals of Artificial Intelligence" exam, part of the Computer Science and Automation Engineering program at Sapienza University.
+# Fundamentals of Artificial Intelligence Project
+This repository contains the project for the "Fundamentals of Artificial Intelligence" exam, part of the Computer Science and Automation Engineering program at Sapienza University.
 
 # Technologies Used
 The project utilizes the following technologies:
