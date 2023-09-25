@@ -9,4 +9,4 @@ Jupyter Notebook: A popular environment for interactive data analysis and machin
 
 Silvestri's Project
 Description: This project includes a Google Colab notebook where we analyze the "Online News Popularity Data Set" using various machine learning models to understand how the number of shares (the target variable) is influenced by various features.
-Folder: Project Silvestri
+
